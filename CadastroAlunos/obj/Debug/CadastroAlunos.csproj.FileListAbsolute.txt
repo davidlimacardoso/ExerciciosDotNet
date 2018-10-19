@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\CadastroAlunos\CadastroAlunos\bin\Debug\CadastroAlunos.exe.config
+C:\Users\David\source\repos\CadastroAlunos\CadastroAlunos\bin\Debug\CadastroAlunos.exe
+C:\Users\David\source\repos\CadastroAlunos\CadastroAlunos\bin\Debug\CadastroAlunos.pdb
+C:\Users\David\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.csprojAssemblyReference.cache
+C:\Users\David\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.Form1.resources
+C:\Users\David\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.Properties.Resources.resources
+C:\Users\David\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.csproj.GenerateResource.cache
+C:\Users\David\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.exe
+C:\Users\David\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.pdb
+C:\Users\David\source\repos\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.Formulario2.resources
+C:\Users\ADM\Downloads\nxArlQM3Fg0C_CadastroAlunos\CadastroAlunos\CadastroAlunos\bin\Debug\CadastroAlunos.exe.config
+C:\Users\ADM\Downloads\nxArlQM3Fg0C_CadastroAlunos\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.exe
+C:\Users\ADM\Downloads\nxArlQM3Fg0C_CadastroAlunos\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.pdb
